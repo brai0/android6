@@ -6,10 +6,10 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/buttonNotify"
+        android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/notify_me"
+        android:text="@string/button"
         tools:layout_editor_absoluteX="33dp"
         tools:layout_editor_absoluteY="40dp"
         tools:ignore="MissingConstraints" />
